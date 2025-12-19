@@ -1,0 +1,4 @@
+cores,mode,value,trial
+2,baseline,79302,1
+2,kernel_rr,57127,1
+2,whole_system_rr,44120,1
